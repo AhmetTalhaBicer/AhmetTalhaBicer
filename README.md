@@ -9,8 +9,12 @@
 ###
 
 <div align="center">
-  <img src="www.linkedin.com/in/ahmet-talha-biçer-597353177" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/ahmet-talha-biçer-597353177" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="bicerahmettalha@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
