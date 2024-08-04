@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm interested in the Web industry.</p>
+<p align="left">- 🔭 I'm interested in the Web and Mobile industry.</p>
 
 ###
 
