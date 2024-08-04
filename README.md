@@ -36,8 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
- <img width="15" />
-  <img src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-768x890.png" height="50" alt="react native logo"  />
+ <img width="10" />
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-react-native-mobile-app-development-flaticons-lineal-color-flat-icons.png" height="40" alt="React Native logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="10" />
