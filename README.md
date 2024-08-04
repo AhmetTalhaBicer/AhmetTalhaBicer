@@ -37,7 +37,7 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
  <img width="10" />
-<img src="https://pagepro.co/blog/wp-content/webp-express/webp-images/uploads/2020/03/react-native-logo-884x1024.png.webp" height="40" alt="React Native logo" />
+<img src="https://www.onu.ro/wp/wp-content/uploads/2020/03/react-native-logo-768x890.png" height="40" alt="React Native logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="10" />
