@@ -45,7 +45,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
+  <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" height="40" alt="nestjs logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="10" />
