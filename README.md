@@ -37,7 +37,7 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
  <img width="10" />
-<img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/react-native-1-900x0.png" height="40" alt="React Native logo" />
+  <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/react-native-1-900x0.png" height="40" alt="React Native logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="10" />
@@ -53,7 +53,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="10" />
-<img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="40" alt="solidity logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 
