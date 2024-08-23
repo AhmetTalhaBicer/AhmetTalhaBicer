@@ -53,7 +53,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="40" alt="solidity logo" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
 
