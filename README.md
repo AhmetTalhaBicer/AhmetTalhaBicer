@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm interested in the Web and Mobile industry.</p>
+<p align="left">- 🔭 I'm interested in the Web,Mobile and Blockchain industry.</p>
 
 ###
 
@@ -37,8 +37,6 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
  <img width="10" />
-  <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/react-native-1-900x0.png" height="40" alt="React Native logo" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="asp.net core logo"  />
