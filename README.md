@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm interested in the Web,Mobile and Blockchain industry.</p>
+<p align="left">- 🔭 I'm interested in the Web, Mobile and Blockchain industry.</p>
 
 ###
 
