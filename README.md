@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4a1ad5c-05ae-4e1a-ab2e-65a98fd113e8)<h1 align="center">Hi, I'm Ahmet Talha Biçer</h1>
+<h1 align="center">Hi, I'm Ahmet Talha Biçer</h1>
 
 ###
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="asp.net core logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
- <img width="10" />
+  <img width="10" />
   <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" height="40" alt="nestjs logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
