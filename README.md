@@ -38,7 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
- <img width="10" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="asp.net core logo"  />
@@ -47,18 +49,17 @@
   <img width="10" />
   <img src="https://nestjs.com/img/logo-small.svg" height="40" alt="nestjs logo" />
   <img width="10" />
+<img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="40" alt="django logo" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" alt="tailwind css logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-
-
-  
 </div>
 
 ###
