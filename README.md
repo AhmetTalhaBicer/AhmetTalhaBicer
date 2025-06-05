@@ -55,8 +55,7 @@
   <img width="10" />
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="40" alt="django logo" />
   <img width="10" />
-  <img src="https://www.svgrepo.com/show/354012/fastapi.svg" height="40" alt="fastapi logo" />
-  <img width="10" />
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo" />  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
