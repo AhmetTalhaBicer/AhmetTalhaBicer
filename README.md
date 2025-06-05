@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm interested in Web, Mobile, Embedded Systems Software and Aerospace industries.</p>
+<p align="left">- 🔭 I'm interested in Embedded Systems Software, Aerospace, Web, and Mobile industries.</p>
 
 ###
 
