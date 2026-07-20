@@ -1,77 +1,45 @@
-<h1 align="center">Hi, I'm Ahmet Talha Biçer</h1>
+<h1 align="center">Hi, I'm Ahmet Talha Biçer 🚀</h1>
 
-###
+<h4 align="center">Software Engineer • Backend • Embedded & Avionics</h4>
 
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/3139143/30776266-17b84692-a069-11e7-99f8-c0a6dba4b128.png" alt="Gopher" />
+</p>
 
-###
+<h3 align="left">🛠️ Tech Stack</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmet-talha-bi%C3%A7er-597353177/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<h4 align="left">💻 Backend & Software</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,java,spring,ts,py,nodejs,nextjs,react" height="40" alt="Software Stack" />
+</p>
 
-###
+<h4 align="left">☁️ Cloud & Infrastructure</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,redis,docker,kubernetes,githubactions,linux" height="40" alt="Cloud and DevOps" />
+</p>
 
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-<p align="left">- 🔭 I'm interested in Embedded Systems Software, Aerospace, Web, and Mobile industries.</p>
-
-###
-
-<h3 align="left">🛠 Language and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="asp.net core logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  <img width="10" />
-  <img src="https://nestjs.com/img/logo-small.svg" height="40" alt="nestjs logo" />
-  <img width="10" />
-  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="40" alt="django logo" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="10" />
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" alt="tailwind css logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" />
-</div>
-
-###
+<h4 align="left">📟 Embedded & Avionics</h4>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40" alt="C" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="40" alt="STM32" />
+  <img src="https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white" height="40" alt="ARM Cortex" />
+  <img src="https://img.shields.io/badge/FreeRTOS-16202C?style=for-the-badge&logoColor=white" height="40" alt="FreeRTOS" />
+</p>
 
 <br />
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetTalhaBicer&theme=tokyonight">
-</details>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmetTalhaBicer&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+<br />
+
+<h3 align="center">📫 Contact Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmet-talha-bi%C3%A7er-597353177/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bicerahmettalha@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="26" alt="Gmail" />
+  </a>
+</p>
