@@ -72,5 +72,6 @@
 <br />
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetTalhaBicer&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetTalhaBicer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </details>
+
