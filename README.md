@@ -55,7 +55,8 @@
   <img width="10" />
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="40" alt="django logo" />
   <img width="10" />
-<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo" />  <img width="10" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
@@ -72,6 +73,5 @@
 <br />
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetTalhaBicer&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetTalhaBicer&theme=tokyonight">
 </details>
-
