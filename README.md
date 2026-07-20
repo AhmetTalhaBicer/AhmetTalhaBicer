@@ -2,9 +2,9 @@
 
 <h4 align="center">Software Engineer • Backend • Embedded & Avionics</h4>
 
-<!-- <p align="center">
+ <p align="center">
   <img width="220" src="./gopher-1.png" alt="Gopher" />
-</p> -->
+</p> 
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
