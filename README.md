@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/FreeRTOS-16202C?style=for-the-badge&logoColor=white" height="40" alt="FreeRTOS" />
 </p>
 
+<!--
 <br />
 
 <div align="center">
@@ -35,6 +36,7 @@
 </div>
 
 <br />
+-->
 
 <h3 align="center">📫 Contact Me</h3>
 <p align="center">
