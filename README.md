@@ -43,24 +43,6 @@
 
 <br />
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AhmetTalhaBicer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<br />
-
-<h3 align="left">🔥 Streak Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmetTalhaBicer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<h3 align="left">📈 Activity Graph</h3>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmetTalhaBicer&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
