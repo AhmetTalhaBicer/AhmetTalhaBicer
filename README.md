@@ -28,15 +28,7 @@
   <img src="https://img.shields.io/badge/FreeRTOS-16202C?style=for-the-badge&logoColor=white" height="40" alt="FreeRTOS" />
 </p>
 
-<!-- <br />
-
-<h3 align="left">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmetTalhaBicer&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<br /> -->
+<br />
 
 <h3 align="left">📫 Contact Me</h3>
 
@@ -50,6 +42,34 @@
 </p>
 
 <br />
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmetTalhaBicer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<br />
+
+<h3 align="left">🔥 Streak Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmetTalhaBicer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<h3 align="left">📈 Activity Graph</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmetTalhaBicer&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+<br />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AhmetTalhaBicer&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
 
 <!-- 🐍 Contribution Snake (private commit'ler algılanmadığı için devre dışı)
 <div align="center">
