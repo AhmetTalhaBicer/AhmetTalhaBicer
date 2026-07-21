@@ -51,8 +51,7 @@
 
 <br />
 
-<!-- <h3 align="center">🐍 Contribution Snake</h3> -->
-
+<!-- 🐍 Contribution Snake (private commit'ler algılanmadığı için devre dışı)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -63,3 +62,4 @@
       src="https://raw.githubusercontent.com/AhmetTalhaBicer/AhmetTalhaBicer/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+-->
