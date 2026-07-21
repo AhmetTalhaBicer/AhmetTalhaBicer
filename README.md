@@ -28,13 +28,26 @@
   <img src="https://img.shields.io/badge/FreeRTOS-16202C?style=for-the-badge&logoColor=white" height="40" alt="FreeRTOS" />
 </p>
 
-<br />
+<!-- <br />
 
 <h3 align="left">📊 GitHub Analytics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AhmetTalhaBicer&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
+<br /> -->
+
+<h3 align="center">📫 Contact Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmet-talha-bi%C3%A7er-597353177/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bicerahmettalha@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="26" alt="Gmail" />
+  </a>
+</p>
 
 <br />
 
@@ -50,16 +63,3 @@
       src="https://raw.githubusercontent.com/AhmetTalhaBicer/AhmetTalhaBicer/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<br />
-
-<h3 align="left">📫 Contact Me</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmet-talha-bi%C3%A7er-597353177/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="26" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bicerahmettalha@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="26" alt="Gmail" />
-  </a>
-</p>
