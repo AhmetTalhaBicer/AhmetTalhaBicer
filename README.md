@@ -47,3 +47,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="26" alt="Gmail" />
   </a>
 </p>
+
+<h3 align="center">🐍 Snake Game Contribution</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmetTalhaBicer/AhmetTalhaBicer/output/github-contribution-grid-snake.svg" alt="Snake contribution game" />
+</p>
