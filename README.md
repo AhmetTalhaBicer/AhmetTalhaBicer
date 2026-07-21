@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/FreeRTOS-16202C?style=for-the-badge&logoColor=white" height="40" alt="FreeRTOS" />
 </p>
 
-<br />
-
 <h3 align="left">📫 Contact Me</h3>
 
 <p align="left">
@@ -46,12 +44,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmetTalhaBicer&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
-
-<br />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AhmetTalhaBicer&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
 
 <!-- 🐍 Contribution Snake (private commit'ler algılanmadığı için devre dışı)
 <div align="center">
