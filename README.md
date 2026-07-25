@@ -12,7 +12,7 @@
 
 <h4 align="left">💻 Backend & Software</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,spring,ts,py,nodejs,nextjs,react" height="40" alt="Software Stack" />
+  <img src="https://skillicons.dev/icons?i=go,java,spring,ts,py,nodejs,fastapi,nextjs,react" height="40" alt="Software Stack" />
 </p>
 
 <h4 align="left">☁️ Cloud & Infrastructure</h4>
